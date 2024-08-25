@@ -1,6 +1,5 @@
 package com.elara.dynamicdatasource.component;
 
-import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.toolkit.CollectionUtils;
 import com.elara.dynamicdatasource.config.DynamicDataSource;
 import com.elara.dynamicdatasource.entity.TestDbInfo;
